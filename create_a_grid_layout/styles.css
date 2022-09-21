@@ -36,6 +36,12 @@
     padding: 25px;
 }
   
+
+.sidebar {
+    padding: 25px;
+    background-color:darkcyan;
+  }
+
 .left {
     grid-area: left;
     background-color: peachpuff;
@@ -53,7 +59,3 @@
     text-align: center;
   }
   
-.sidebar {
-    padding: 25px;
-    background-color:darkcyan;
-  }
